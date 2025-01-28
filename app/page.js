@@ -4,7 +4,8 @@ export default function Home() {
   return (
     <div>
       <h1>Enviando para o github</h1>
-      <p>atividade finalizada!</p>
+      <p>atividade em andamento...</p>
+      <p>Testando uma nova versao</p>
 
 
 
